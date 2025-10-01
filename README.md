@@ -1,1 +1,1 @@
-# Validacion de Formulario con funcionalidades de JavaScrip .... Taller de Diseño de Software 2 (Trabajo Practico N°2)
+# Validacion de Formulario con funcionalidades de JavaScript .... Taller de Diseño de Software 2 (Trabajo Practico N°2)
